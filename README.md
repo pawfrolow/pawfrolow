@@ -19,6 +19,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=pawfrolow&show_icons=true&count_private=true&include_all_commits=true&line_height=27">
+
 <!--
 **pawfrolow/pawfrolow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
