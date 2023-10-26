@@ -21,7 +21,7 @@
 
 ---
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=pawfrolow&show_icons=true&count_private=true&include_all_commits=true&line_height=27&theme=github_dark">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=pawfrolow&show_icons=true&count_private=true&line_height=27&theme=github_dark">
 
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawfrolow&count_private=true&include_all_commits=true&theme=github_dark">
 
